@@ -21,3 +21,5 @@ hello
 # teacher
 
 chet GPT
+
+javascript is a object oriented programing language and dynamic language its easy to learn and easy to undrestand
