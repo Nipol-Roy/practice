@@ -17,3 +17,7 @@ C++, java ,Python
 
 created by nipol
 hello
+
+# teacher
+
+chet GPT
